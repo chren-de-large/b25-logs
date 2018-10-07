@@ -47,6 +47,8 @@ Article 08/03/2000: https://www.wired.com/2000/03/alternative-net-protects-pirat
 
 - Napster's central servers, it would be almost impossible to disable a Freenet network running on machines all over the world.
 
+- USER FEEDBACK: "never liked freenet sites took forever to load and the fact the faq says that you could be hosting child pornography on your computer kinda put me off."
+
 - [Freenet video introduction 1:51:00 duration](https://youtu.be/zu9gM3_gIfM)
 
 ### [Indie Web](https://freenetproject.org/)
